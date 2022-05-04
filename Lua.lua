@@ -1,3 +1,4 @@
+
 local old_env = _ENV
 local bkey = {
 -- Blacklisted constants, if you want you could edit them.
